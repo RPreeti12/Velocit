@@ -1,20 +1,20 @@
-# 🚗 Velocit - Vehicle Detection, Speed Estimation & License Plate Recognition
+# Velocit - Vehicle Detection, Speed Estimation & License Plate Recognition
 
 **Velocit** is an AI-powered application that performs real-time vehicle detection, speed estimation, and license plate recognition using YOLOv8 and EasyOCR. Built with Streamlit for an interactive interface, it allows users to upload traffic videos and view annotated outputs with bounding boxes, speeds, and license numbers.
 
 ---
 
-## 🔍 Features
+## Features
 
-- 🚘 **Vehicle Detection** using YOLOv8
-- ⏱️ **Speed Estimation** between video frames
-- 🔢 **License Plate Detection & OCR** with EasyOCR
-- 🧠 Streamlit-based UI for seamless video upload and processing
-- 📁 Clean output directory for annotated results
+- **Vehicle Detection** using YOLOv8
+- **Speed Estimation** between video frames
+- **License Plate Detection & OCR** with EasyOCR
+- Streamlit-based UI for seamless video upload and processing
+- Clean output directory for annotated results
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Python**
 - **YOLOv8** (Ultralytics)
@@ -24,7 +24,7 @@
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 vehicle_detection_app/
 
 │
@@ -45,7 +45,7 @@ vehicle_detection_app/
 
 └── README.md
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the repository**  
 ```bash
